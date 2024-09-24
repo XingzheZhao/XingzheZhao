@@ -23,15 +23,11 @@ I am a software engineer with a strong foundation in automation, data analysis, 
 
 ### 📊 Stats
 
-
-<a href="http://www.github.com/XingzheZhao"><img src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=false&show_icons=true" alt="XingzheZhao's GitHub stats" /></a>
-
-<a href="https://github.com/XingzheZhao" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingzheZhao&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-#
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingzheZhao&layout=compact&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=false&locale=en&custom_title=Top%20%Languages&theme=dark" alt="Top Languages"/>
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=171717&theme=dark" alt="GitHub Stats"/>
 </p>
+
+#

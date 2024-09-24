@@ -32,6 +32,6 @@ I am a software engineer with a strong foundation in automation, data analysis, 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingzheZhao&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-<p>$nbsp;
+<p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>

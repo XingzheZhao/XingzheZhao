@@ -29,7 +29,9 @@ I am a software engineer with a strong foundation in automation, data analysis, 
 <a href="https://github.com/XingzheZhao" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingzheZhao&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 #
 
-<p align="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingzheZhao&layout=compact&theme=dark" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&show_icons=true&theme=dark" alt="GitHub Stats"/>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XingzheZhao&layout=compact&theme=dark" alt="Top Languages"/>
+</p>
+<p>$nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>

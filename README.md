@@ -1,10 +1,11 @@
 # Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### About Me
-- 💻 Software Engineer with a solid foundation in automation, data analysis, networking, cybersecurity, and full-stack development.
-- 🚀 Industry Experience at Apple (Python-based automation, data workflows) and Waymo (autonomous vehicle simulation testing, data analysis).
-- 🎓 Education: Master's in Software Engineering (ongoing) and Bachelor's in Computer Engineering from San Jose State University.
-- 🔧 Learning: Actively expanding skills in Golang, RAG, IoT, and Networking.
+- 💻 Software Engineer skilled in software development, automation, networking, and cybersecurity.
+- 🎓 Education: Currently pursuing a Master’s in Software Engineering.
+- 🧑‍🎓 Bachelor’s Degree in Computer Engineering.
+- 🔄 Experience: Automated data workflows and streamlined processes in my previous role.
+- 🔧 Currently Learning: Golang, RAG, IoT, and Networking.
 ---
 
 ### Skills

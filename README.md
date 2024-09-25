@@ -1,10 +1,10 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sam Zhao
+# Hi There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am a software engineer with a strong foundation in automation, data analysis, networking, cybersecurity and full-stack development. I’ve gained hands-on experience through roles at Apple and Waymo, where I streamlined data workflows, automated processes, and ensured the quality of autonomous vehicle simulations. I’m passionate about leveraging technologies like Python, Node.js, and AWS to build scalable solutions. In addition to my industry experience, I’ve led the development of several innovative projects, such as an online movie ticket booking system and an e-commerce platform, utilizing modern frameworks like React, Express, and MySQL. With a Master’s in Software Engineering and a strong focus on backend systems, I’m always looking for new challenges in software development and data automation.
-
-* 🌍  I'm based in San Jose
-* 🧠  I'm learning Golang, RAG, IoT, Networking
-
+### About Me
+- 💻 Software Engineer with a solid foundation in automation, data analysis, networking, cybersecurity, and full-stack development.
+- 🚀 Industry Experience at Apple (Python-based automation, data workflows) and Waymo (autonomous vehicle simulation testing, data analysis).
+- 🎓 Education: Master's in Software Engineering (ongoing) and Bachelor's in Computer Engineering from San Jose State University.
+- 🔧 Learning: Actively expanding skills in Golang, RAG, IoT, and Networking.
 ---
 
 ### Skills

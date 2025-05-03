@@ -2,7 +2,7 @@
 
 ### About Me
 - 💻 Software Engineer skilled in software development, automation, networking, and cybersecurity.
-- 🎓 Education: Currently pursuing a Master’s in Software Engineering.
+- 🎓 Master’s Degree in Software Engineering.
 - 🧑‍🎓 Bachelor’s Degree in Computer Engineering.
 - 🔄 Experience: Automated data workflows and streamlined processes in my previous role.
 - 🔧 Currently Learning: Golang, RAG

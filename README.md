@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">- 💻 Software Engineer skilled in software development, automation, networking, and cybersecurity.<br>- 🎓 Master’s Degree in Software Engineering.<br>- 🧑‍🎓 Bachelor’s Degree in Computer Engineering.<br>- 🔄 Experience: Automated data workflows and streamlined processes in my previous role.<br>- 🔧 Currently exploring Golang concurrency patterns and Retrieval-Augmented Generation.</p>
+<p align="left">- 💻 Experienced in software development, automation, networking, AWS, data processing and machine learning.<br>- 🎓 Master’s Degree in Software Engineering.<br>- 🧑‍🎓 Bachelor’s Degree in Computer Engineering.<br>- 🔧 Currently exploring Golang concurrency patterns and Retrieval-Augmented Generation.</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 

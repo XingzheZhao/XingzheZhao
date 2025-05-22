@@ -1,14 +1,11 @@
 <h1 align="left">Hi 👋! My name is Sam — Software Engineer (Python · Go · ML · Cloud)</h1>
 
-###
-
 <h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">- 💻 Software Engineer skilled in software development, automation, networking, and cybersecurity.<br>- 🎓 Master’s Degree in Software Engineering.<br>- 🧑‍🎓 Bachelor’s Degree in Computer Engineering.<br>- 🔄 Experience: Automated data workflows and streamlined processes in my previous role.<br>- 🔧 Currently exploring Golang concurrency patterns and Retrieval-Augmented Generation.</p>
 
-___
 <h2>🚀 Languages and Tools I Use</h2>
 
 
@@ -96,6 +93,9 @@ ___
   <img src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XingzheZhao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
+
+<h2>📊 Stats</h2>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XingzheZhao&show_icons=true&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=171717&theme=dark" height="150" alt="stats graph"  />

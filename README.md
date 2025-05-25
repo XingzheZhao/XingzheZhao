@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Sam — Software Engineer (Python · Go · ML · Cloud)</h1>
+<h1 align="left">Hi 👋! My name is Sam — Software Engineer (Python · Go · AWS · ML)</h1>
 
 <h2 align="left">About Me</h2>
 
